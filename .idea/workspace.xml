@@ -4,106 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11d6099f-b96a-4329-9b21-924a7c4324b9" name="变更" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/toolchains.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABM/Lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABM/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABM/dbs.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABM/temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatedDevelopment/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatedDevelopment/gets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatedDevelopment/gui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatedDevelopment/libSefl/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatedDevelopment/libSefl/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatedDevelopment/libSefl/config/clivk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatedDevelopment/libSefl/config/temps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatedDevelopment/libSefl/files/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatedDevelopment/libSefl/files/excels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatedDevelopment/libSefl/temp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatedDevelopment/pygames.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatedDevelopment/temps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatedDevelopment/temps/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutomatedDevelopment/补充图斑台账(2)(1).xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rnn/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rnn/a1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rnn/net.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rnn/setting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rnn/temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rnn/temp1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rnn/携程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rnn/读取多个商品页面1.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/DocToDocx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/dels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/docxcompose/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/docxcompose/command.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/docxcompose/composer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/docxcompose/image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/docxcompose/properties.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/docxcompose/sdt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/docxcompose/templates/custom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/docxcompose/templates/footer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/docxcompose/templates/footnotes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/docxcompose/templates/header.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/docxcompose/templates/numbering.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/docxcompose/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/getdata.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/wordTo1/doc2docx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/wordTo1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/wordTo1/main.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/wordTo1/temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/wordTo1/words2ines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/二组/0002-蒋高学-500111006200020002J-农村土地承包经营权登记簿.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/二组/0003-梁本伟-500111006200020003J-农村土地承包经营权登记簿.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/二组/0004-刘用开-500111006200020004J-农村土地承包经营权登记簿.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/二组/0005-吴庆文-500111006200020005J-农村土地承包经营权登记簿.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/二组/0006-彭秀高-500111006200020006J-农村土地承包经营权登记簿.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZhangHao/打包事项(需要把docxcompose文件夹整体挪到main文件).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagenet1k/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagenet1k/Ranks.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagenet1k/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagenet1k/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagenet1k/down_load.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagenet1k/get_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagenet1k/排名.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jp/2022年_12月竞品表.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jp/BGS.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jp/CreatNextMonth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jp/GenerateCompeteWook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jp/ImageToPdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jp/Main_Ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jp/bg0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jp/config.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unet_1200+600/Plot_Loss_Acc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unet_1200+600/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unet_1200+600/data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unet_1200+600/decoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unet_1200+600/encoder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unet_1200+600/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unet_1200+600/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unet_1200+600/result.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unet_1200+600/temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unet_1200+600/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unet_1200+600/train.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unet_1200+600/ulits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unet_1200+600/测试分析.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/车辆识别400/Config/Models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/车辆识别400/Config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/车辆识别400/Config/dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/车辆识别400/Config/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/车辆识别400/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/车辆识别400/log/LOG.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/车辆识别400/log/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/车辆识别400/weight/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project1/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/main.py" beforeDir="false" />
-    </list>
+    <list default="true" id="11d6099f-b96a-4329-9b21-924a7c4324b9" name="变更" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,6 +24,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2NMH4lteKPBWrCvtHINXgzNUHyY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -201,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679471123566</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1679537739974</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679537739974</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

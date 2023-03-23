@@ -1,0 +1,90 @@
+D:\data\Radiolarian\Acaeniotyle diaphorogona Foreman\Sanfilippo & Riedel,1985,pl.4,fig.1a.png	0
+D:\data\Radiolarian\Acaeniotyle diaphorogona Foreman\Sanfilippo & Riedel,1985,pl.4,fig.1b.png	0
+D:\data\Radiolarian\Acaeniotyle diaphorogona Foreman\Satoru KOJIMA,1994,Pl.3,fig7.png	0
+D:\data\Radiolarian\Acaeniotyle diaphorogona Foreman\Sergey V. Zyabrev,2008,pl6,fig2.png	0
+D:\data\Radiolarian\Acaeniotyle diaphorogona Foreman\Thurow,1988,pl.9,fig.8.png	0
+D:\data\Radiolarian\Acaeniotyle diaphorogona Foreman\Tumanda,1989,pl.1,fig.2.png	0
+D:\data\Radiolarian\Acaeniotyle diaphorogona Foreman\Tumanda,1989,pl.1,fig.3.png	0
+D:\data\Radiolarian\Acaeniotyle umbilicata(Rust)\Nakaseko,1979,pl.4,fig.7.png	1
+D:\data\Radiolarian\Acaeniotyle umbilicata(Rust)\Peter O.Baumgartner,1992,Pl.3,fig2.png	1
+D:\data\Radiolarian\Acaeniotyle umbilicata(Rust)\Sanfilippo & Riedel,1985,pl.4,fig.2a.png	1
+D:\data\Radiolarian\Acaeniotyle umbilicata(Rust)\Sanfilippo & Riedel,1985,pl.4,fig.2b.png	1
+D:\data\Radiolarian\Acaeniotyle umbilicata(Rust)\Sanfilippo & Riedel,1985,pl.4,fig.2c.png	1
+D:\data\Radiolarian\Acaeniotyle umbilicata(Rust)\Sanfilippo & Riedel,1985,pl.4,fig.2d.png	1
+D:\data\Radiolarian\Acaeniotyle umbilicata(Rust)\Satoru KOJIMA,1994,pl.3,fig6.png	1
+D:\data\Radiolarian\Acaeniotyle umbilicata(Rust)\Sergey V. Zyabrev,2008,pl5,fig1.png	1
+D:\data\Radiolarian\Acaeniotyle umbilicata(Rust)\Sergey V. Zyabrev,2008,pl6,fig1.png	1
+D:\data\Radiolarian\Acaeniotyle umbilicata(Rust)\Thurow,1988,pl.9,fig.7.png	1
+D:\data\Radiolarian\Acaeniotyle umbilicata(Rust)\Tumanda,1989,pl.1,fig.4.png	1
+D:\data\Radiolarian\Acaeniotyle umbilicata(Rust)\Yasumisu KANIE,2001,pl.1,fig.2.png	1
+D:\data\Radiolarian\Acanthocircus dicranocanthos(Squinabol)\Sanfilippo & Riedel,1985,pl.5,fig.2c.png	2
+D:\data\Radiolarian\Acanthocircus dicranocanthos(Squinabol)\Thurow,1988,pl.10,fig.3.png	2
+D:\data\Radiolarian\Acanthocircus dicranocanthos(Squinabol)\Tumanda,1989,pl.2,fig.12.png	2
+D:\data\Radiolarian\Acanthocircus dicranocanthos(Squinabol)\Xin Li,2017,pl.16,fig.9.png	2
+D:\data\Radiolarian\Acanthocircus dicranocanthos(Squinabol)\Yasumisu KANIE,2001,pl.1,fig.3.png	2
+D:\data\Radiolarian\Archaeodictyomitra apiarum(Rust)\Pessagno,1977,pl.6,fig.6.png	3
+D:\data\Radiolarian\Archaeodictyomitra apiarum(Rust)\Robin,2010,pl.4,fig.12.png	3
+D:\data\Radiolarian\Archaeodictyomitra apiarum(Rust)\Tumanda,1989,pl.3,fig.9.png	3
+D:\data\Radiolarian\Archaeodictyomitra apiarum(Rust)\Xin Li,2017,pl.16,fig.19.png	3
+D:\data\Radiolarian\Archaeodictyomitra lacrimula(Foreman)\Sanfilippo & Riedel,1985,pl.7,fig.3b.png	4
+D:\data\Radiolarian\Archaeodictyomitra lacrimula(Foreman)\Sanfilippo & Riedel,1985,pl.7,fig.3c.png	4
+D:\data\Radiolarian\Archaeodictyomitra lacrimula(Foreman)\Satoru KOJIMA,1994,pl.5,fig4.png	4
+D:\data\Radiolarian\Archaeodictyomitra lacrimula(Foreman)\Tumanda,1989,pl.3,fig.19.png	4
+D:\data\Radiolarian\Cecrops septemporatus(Parona)\Satoru KOJIMA,1994,pl.3,fig4.png	5
+D:\data\Radiolarian\Cecrops septemporatus(Parona)\Sergey V. Zyabrev,2008,pl5,fig3.png	5
+D:\data\Radiolarian\Cecrops septemporatus(Parona)\Tajika,1983,pl.3,fig.6.png	5
+D:\data\Radiolarian\Cecrops septemporatus(Parona)\Thurow,1988,pl.9,fig.18.png	5
+D:\data\Radiolarian\Cecrops septemporatus(Parona)\Xin Li,2017,pl.16,fig.25.png	5
+D:\data\Radiolarian\Cecrops septemporatus(Parona)\Xin Li,2017,pl.16,fig.8.png	5
+D:\data\Radiolarian\Cryptamphorella conara(Foreman)\T. C. Moore,1973,Pl.7,fig4.png	6
+D:\data\Radiolarian\Cryptamphorella conara(Foreman)\T. C. Moore,1973,pl.7,fig5.png	6
+D:\data\Radiolarian\Cryptamphorella conara(Foreman)\Thurow,1988,pl.1,fig.2.png	6
+D:\data\Radiolarian\Cryptamphorella conara(Foreman)\Xin Li,2017,pl.16,fig.24.png	6
+D:\data\Radiolarian\Holocryptocanium barbui Dumicrita\Sanfilippo & Riedel,1985,pl.12,fig.2b.png	7
+D:\data\Radiolarian\Holocryptocanium barbui Dumicrita\Sanfilippo & Riedel,1985,pl.12,fig.2c.png	7
+D:\data\Radiolarian\Holocryptocanium barbui Dumicrita\Thurow,1988,pl.5,fig.5.png	7
+D:\data\Radiolarian\Holocryptocanium barbui Dumicrita\Thurow,1988,pl.5,fig.6.png	7
+D:\data\Radiolarian\Holocryptocanium barbui Dumicrita\Thurow,1988,pl.5,fig.7.png	7
+D:\data\Radiolarian\Holocryptocanium barbui Dumicrita\Thurow,1988,pl.5,fig.8.png	7
+D:\data\Radiolarian\Pantanellium squinaboli(Tan)\Figen A. Mekik,2000,pl.2,fig.13.png	8
+D:\data\Radiolarian\Pantanellium squinaboli(Tan)\Figen A. Mekik,2000,pl.2,fig.5.png	8
+D:\data\Radiolarian\Pantanellium squinaboli(Tan)\ISHII Yuuki1),2009,pl.2,fig.4.png	8
+D:\data\Radiolarian\Pantanellium squinaboli(Tan)\Kojima,2001,pl.1,fig.3.png	8
+D:\data\Radiolarian\Pantanellium squinaboli(Tan)\Peter O.Baumgartner,1992,pl.8,fig1.png	8
+D:\data\Radiolarian\Pantanellium squinaboli(Tan)\Peter O.Baumgartner,1992,pl.8,fig2.png	8
+D:\data\Radiolarian\Pantanellium squinaboli(Tan)\Peter O.Baumgartner,1992,pl.8,fig3.png	8
+D:\data\Radiolarian\Parvicingula boesii(Parona)\Thurow,1988,pl.6,fig.9.png	9
+D:\data\Radiolarian\Parvicingula boesii(Parona)\Tumanda,1989,pl.4,fig.1.png	9
+D:\data\Radiolarian\Parvicingula boesii(Parona)\Tumanda,1989,pl.4,fig.2.png	9
+D:\data\Radiolarian\Parvicingula boesii(Parona)\Yasumisu KANIE,2001,pl.1,fig.13.png	9
+D:\data\Radiolarian\Podobursa triacantha(Fischli)\Nakaseko,1979,pl.4,fig.4.png	10
+D:\data\Radiolarian\Podobursa triacantha(Fischli)\Pessagno,1977,pl.11,fig.6.png	10
+D:\data\Radiolarian\Podobursa triacantha(Fischli)\Satoru KOJIMA,1994,Pl.2,fig11.png	10
+D:\data\Radiolarian\Podobursa triacantha(Fischli)\Thurow,1988,pl.7,fig.16.png	10
+D:\data\Radiolarian\Podobursa triacantha(Fischli)\Thurow,1988,pl.7,fig.19.png	10
+D:\data\Radiolarian\Podobursa triacantha(Fischli)\Tumanda,1989,pl.3,fig.3.png	10
+D:\data\Radiolarian\Podobursa triacantha(Fischli)\Yasumisu KANIE,2001,pl.1,fig.15.png	10
+D:\data\Radiolarian\Pseudodicryomitra carpaticu(Lozyniak)\Sergey V. Zyabrev,2008,pl5,fig18.png	11
+D:\data\Radiolarian\Pseudodicryomitra carpaticu(Lozyniak)\Sergey V. Zyabrev,2008,pl5,fig19.png	11
+D:\data\Radiolarian\Pseudodicryomitra carpaticu(Lozyniak)\Sergey V. Zyabrev,2008,pl5,fig20.png	11
+D:\data\Radiolarian\Pseudodicryomitra carpaticu(Lozyniak)\Sergey V. Zyabrev,2008,pl5,fig21.png	11
+D:\data\Radiolarian\Pseudodicryomitra carpaticu(Lozyniak)\Sergey V. Zyabrev,2008,pl6,fig35.png	11
+D:\data\Radiolarian\Pseudodicryomitra carpaticu(Lozyniak)\Tumanda,1989,pl.3,fig.8.png	11
+D:\data\Radiolarian\Pseudodicryomitra carpaticu(Lozyniak)\Xin Li,2017,pl.16,fig.1.png	11
+D:\data\Radiolarian\Pseudodicryomitra carpaticu(Lozyniak)\Xin Li,2017,pl.16,fig.14.png	11
+D:\data\Radiolarian\Sethocapsa trachyostraca Foreman\Sanfilippo & Riedel,1985,pl.10,fig.3a.png	12
+D:\data\Radiolarian\Sethocapsa trachyostraca Foreman\Sanfilippo & Riedel,1985,pl.10,fig.3b.png	12
+D:\data\Radiolarian\Sethocapsa trachyostraca Foreman\Thurow,1988,pl.8,fig.5.png	12
+D:\data\Radiolarian\Sethocapsa trachyostraca Foreman\Tumanda,1989,pl.5,fig.8.png	12
+D:\data\Radiolarian\Sethocapsa uterculus(Parona)\Sanfilippo & Riedel,1985,pl.10,fig.6a.png	13
+D:\data\Radiolarian\Sethocapsa uterculus(Parona)\Sanfilippo & Riedel,1985,pl.10,fig.6b.png	13
+D:\data\Radiolarian\Sethocapsa uterculus(Parona)\Satoru KOJIMA,1994,Pl.2,fig9.png	13
+D:\data\Radiolarian\Sethocapsa uterculus(Parona)\Thurow,1988,pl.7,fig.21.png	13
+D:\data\Radiolarian\Sethocapsa uterculus(Parona)\Tumanda,1989,pl.5,fig.7.png	13
+D:\data\Radiolarian\Thanarla pulchra(Squinabol)\Sanfilippo & Riedel,1985,pl.8,fig.2a.png	14
+D:\data\Radiolarian\Thanarla pulchra(Squinabol)\Sanfilippo & Riedel,1985,pl.8,fig.2b.png	14
+D:\data\Radiolarian\Thanarla pulchra(Squinabol)\Sanfilippo & Riedel,1985,pl.8,fig.2c.png	14
+D:\data\Radiolarian\Thanarla pulchra(Squinabol)\Sanfilippo & Riedel,1985,pl.8,fig.2d.png	14
+D:\data\Radiolarian\Thanarla pulchra(Squinabol)\Sanfilippo & Riedel,1985,pl.8,fig.2e.png	14
+D:\data\Radiolarian\Thanarla pulchra(Squinabol)\Thurow,1988,pl.7,fig.9.png	14
+D:\data\Radiolarian\Thanarla pulchra(Squinabol)\Tumanda,1989,pl.3,fig.17.png	14
