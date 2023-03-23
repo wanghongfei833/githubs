@@ -1,0 +1,19 @@
+# 滚轮事件
+MessageName: mouse wheel # 鼠标移动
+Message: 522   消息常量
+Time: 1392736031 时间戳
+Window: 1902530 端口号（疑似）
+WindowName: taobao [E:\taobao] – …\AutomatedDevelopment\lib\config\clivk.py [taobao] 界面
+Position: (1286, 451) 鼠标位置
+Wheel: -1    上移动是 1 下移动是 -1 鼠标滚轮滚动了几下
+Injected: 0  # 判断是否是程序执行 还是人为触发
+
+# 鼠标点击
+MessageName: mouse left down
+Message: 513
+Time: 1393018203
+Window: 1902530
+WindowName: taobao [E:\taobao] – …\AutomatedDevelopment\lib\config\clivk.py [taobao]
+Position: (407, 715)
+Wheel: 0
+Injected: 0
